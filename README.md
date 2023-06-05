@@ -8,3 +8,9 @@ This is a multiclient reverse shell project using python.
 4. Run Client.py file in user system and it will connect to your system.
 5. Connection will be established.
 
+## Exposure I Got In This Project:
+1. What A Reverse Shell is?
+2. What are socket and how they work in python.
+3. How to computers connect.
+4. Command Line Interface.
+5. Some Basic Networking.
